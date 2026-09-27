@@ -2,11 +2,11 @@
 
 I'm Luca, a computer engineer from Italy. For more info on my projects, you can head to https://bugfreeblog.duckdns.org.
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlonluca&show_icons=true&theme=ambient_gradient&rank_icon=percentile"/>
 </p>
 
-<!--
 **carlonluca/carlonluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
